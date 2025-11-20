@@ -25,4 +25,4 @@ This project uses the MIT license. For details, please refer to the LICENSE file
 
 ## Acknowledgments
 
-<img src="https://forthebadge.com/images/badges/built-with-love.png">
+<img src="https://forthebadge.com/badges/built-with-love.svg">
