@@ -1,4 +1,4 @@
-<h1 align="center">Project Name</h1>
+<h1 align="center">EcoAction</h1>
 
 <p align="center"><i>Quick one-liner about what this project does.</i></p>
 
@@ -12,7 +12,6 @@
 ## Prerequisites
 Make sure the following are installed:
 
-- [PHP (recommended: PHP 8.x)](https://www.php.net/downloads.php)
 
 ## Quickstart Guide
 Some Text
